@@ -46,7 +46,7 @@ a {
   padding-top: 32px;
   padding-right: 64px;
   align-items: center;
-  margin-bottom: 32px;
+  margin-bottom: 24px;
 }
 
 
@@ -115,4 +115,10 @@ a {
 
 .position {
     font-weight: bold;
+}
+
+h2 {
+    margin-top: 36px;
+    text-align: center;
+    text-decoration: underline;
 }
