@@ -74,8 +74,9 @@ a {
 }
 
 .logo {
+    width: 65px;
     height: 65px;
-    width: auto;
+    padding-right: 8px;
 }
 
 .name {
@@ -100,9 +101,18 @@ a {
     text-align: center;
     display: flex;
     flex-shrink: 0;
+    align-items: center;
 }
 
 .description {
     margin-top: -24px;
     color: lightgrey;
+}
+
+.company {
+    color: lightgrey;
+}
+
+.position {
+    font-weight: bold;
 }
